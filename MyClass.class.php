@@ -1,3 +1,4 @@
+//6лаб
 <?php
 class MyClass{
   function __construct(){
