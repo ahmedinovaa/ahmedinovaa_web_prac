@@ -30,6 +30,7 @@ class SuperUser extends User {
 		$this->role = $role;
 
 	}
+	
 	function Showinfo() {
 		parent::Showinfo();
 		echo "Role: {$this->role} <br />";
