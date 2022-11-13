@@ -26,7 +26,6 @@ function Showinfo() {
 
 }
 
-
 $user1 = new User("Aruzhan","ahmedinovaaa","123456789");
 $user1->Showinfo();
 
