@@ -55,5 +55,4 @@ class SuperUser extends User implements ISuperUser {
 
 $superUser = new SuperUser("Aruzhan","ahmedinovaaa","123456789","superuser");
  print_r ($superUser->getInfo());
-
 ?>
