@@ -55,7 +55,6 @@ class SuperUser extends User implements ISuperUser{
     }
    }
 
-
 echo "Всего обычных пользователей:".User:: $countUser;
 echo "<br/> Всего супер пользователей:".SuperUser::$countSUser;
 
